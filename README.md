@@ -60,10 +60,7 @@ The following areas are documented structurally but are **not implemented in thi
 - Automation workflows beyond initial provisioning
 - Monitoring and security tooling
 
-These areas are left as placeholders to support future learning, particularly around:
-- Hybrid identity
-- Microsoft 365 administration
-- Entra ID, MFA, and Conditional Access
+These areas are documented structurally only and left intentionally unimplemented to preserve a clean baseline.
 
 ## Repository structure
 
