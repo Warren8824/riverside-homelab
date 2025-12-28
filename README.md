@@ -101,11 +101,12 @@ riverside-lab/
 │   ├── 02-global-groups.md                         # Full Global Group Design
 │   └── 03-sample-users.md                          # User creation and placement plan
 ├── 03-group-policy/                             # GPO setup and screenshots
-│   ├── build-scripts/
-|   │   ├── 01CreateOUStructure_DC01.ps1
-│   ├── images/                            
-│   ├── gpo-inventory.md                            
-│   └── security-baseline.md                        
+│   ├── 02-gpo-inventory/
+|   │   ├── README.md
+|   │   ├── allow-internal-ping.md
+|   │   └── pre-logon-ui-settings.md
+│   ├── images/                                             
+│   └── 01-security-baseline.md                        
 ```
 
 ## How this lab is used
