@@ -72,7 +72,7 @@ Refer to the files in `01-infrastructure` and `02-active-directory` for the core
 riverside-lab/
 ├── README.md                                       # This file
 ├── 01-infrastructure/                            # Hyper-V setup documentation
-│   ├── build-scripts/                           # PowerShell scripts used in building the system
+│   ├── build-scripts/                           # PowerShell scripts used during initial deployment 
 |   |   ├── 01ImportHyperVandCreate....ps1  
 |   |   ├── 02CreateDCVM_Host.ps1
 |   |   ├── 03DCNICConfig_DC01.ps1
