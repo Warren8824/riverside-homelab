@@ -74,7 +74,7 @@ Refer to the files in `01-infrastructure` and `02-active-directory` for the core
 ```plaintext
 riverside-lab/
 ├── README.md                                       # This file
-├── 01-infrastucture/                            # Hyper-V setup documentation
+├── 01-infrastructure/                            # Hyper-V setup documentation
 │   ├── build-scripts/                           # PowerShell scripts used in building the system
 |   |   ├── 01ImportHyperVandCreate....ps1  
 |   |   ├── 02CreateDCVM_Host.ps1
