@@ -69,7 +69,7 @@ This environment is part of a personal upskilling initiative and is built to ref
 
 ### Optional Client VMs
 
-- Windows 10 Pro Eval
+- Windows 11 Pro Eval
 - Named per office: `MAN-LAP-01`, `LEE-PC-01`, etc.
 - Domain joined to: `riverside.local`
 - Used for:
