@@ -30,7 +30,7 @@ This document outlines the physical hardware and virtual infrastructure used to 
 | MAN-LAP-01 | Win11 Client (Manchester) | 4        | 4    | 80        | Testing user login/GPOs                |
 | LEE-PC-01  | Win11 Client (Leeds)     | 2        | 4    | 80        | Selectively ran for specific scenarios |
 | LIV-PC-01  | Win11 Client (Liverpool) | 2        | 4    | 80        | Selectively ran for specific scenarios                                       |
-| HUL-LAP-01 | Win10 Client (Hull)      | 4        | 4    | 80        | Selectively ran for specific scenarios                                       |
+| HUL-LAP-01 | Win11 Client (Hull)      | 4        | 4    | 80        | Selectively ran for specific scenarios                                       |
 
 _Total RAM used: ~16GB  when 4 client and DC Run simultaneously.
 Remaining for host and management: ~16GB (depending on host RAM).
