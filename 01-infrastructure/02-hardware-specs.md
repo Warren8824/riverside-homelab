@@ -27,9 +27,9 @@ This document outlines the physical hardware and virtual infrastructure used to 
 | VM Name    | Role                   | RAM (GB) | vCPU | Disk (GB) | Notes                                  |
 |------------|------------------------|----------|------|-----------|----------------------------------------|
 | DC01       | Primary Domain Controller, DHCP, DNS, RRAS | 4        | 4    | 80        | Multi-role core server                 |
-| MAN-LAP-01 | Win10 Client (Manchester) | 4        | 4    | 80        | Testing user login/GPOs                |
-| LEE-PC-01  | Win10 Client (Leeds)     | 2        | 4    | 80        | Selectively ran for specific scenarios |
-| LIV-PC-01  | Win10 Client (Liverpool) | 2        | 4    | 80        | Selectively ran for specific scenarios                                       |
+| MAN-LAP-01 | Win11 Client (Manchester) | 4        | 4    | 80        | Testing user login/GPOs                |
+| LEE-PC-01  | Win11 Client (Leeds)     | 2        | 4    | 80        | Selectively ran for specific scenarios |
+| LIV-PC-01  | Win11 Client (Liverpool) | 2        | 4    | 80        | Selectively ran for specific scenarios                                       |
 | HUL-LAP-01 | Win10 Client (Hull)      | 4        | 4    | 80        | Selectively ran for specific scenarios                                       |
 
 _Total RAM used: ~16GB  when 4 client and DC Run simultaneously.
