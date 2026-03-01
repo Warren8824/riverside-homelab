@@ -49,7 +49,7 @@ These GPOs are sourced from Microsoft's [Security Compliance Toolkit](https://le
 
 ## Endpoint Security – AllComputers OU
 
-### 🖥️ Windows 10 22H2 – Computer Security Baseline
+### 🖥️ Windows 11 25H2 – Computer Security Baseline
 - Enforce UAC and secure desktop elevation
 - Disable autorun and block unsigned driver installation
 - Configure Windows Update and telemetry
