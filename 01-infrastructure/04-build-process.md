@@ -123,7 +123,7 @@ Repeat for each site:
 
 ### Step 6: Configure DNS
 
-- Confirm A records are being created.
+- Confirm A records are being created(DC01 should be created).
 - Add Forwarders: `8.8.8.8`, `1.1.1.1`
 - Right-click Reverse Lookup Zones > New Zone (per subnet)
 
