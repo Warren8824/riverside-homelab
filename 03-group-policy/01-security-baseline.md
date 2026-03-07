@@ -12,7 +12,7 @@ The following Group Policy Objects have been applied:
 |------------------------|--------------|
 | Domain Root            | Default Domain Policy, Windows Server 2025 – Domain Security |
 | Domain Controllers OU  | Default Domain Controllers Policy, Windows Server 2025 – Domain Controller |
-| AllComputers OU        | Windows 10 22H2 – Computer Security, BitLocker, Defender Antivirus |
+| AllComputers OU        | Windows 11 25H2 – Computer Security, BitLocker, Defender Antivirus |
 
 These GPOs are sourced from Microsoft's [Security Compliance Toolkit](https://learn.microsoft.com/en-us/windows/security/threat-protection/security-compliance-toolkit-10) and are applied without modification unless noted.
 
