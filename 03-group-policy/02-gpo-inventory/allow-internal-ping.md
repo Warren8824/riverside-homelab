@@ -10,6 +10,14 @@ either the 10.90.0.0/16 or 192.168.100.0/24 ranges in domain and private profile
 
 The policy will enforce the following rule in Computer Configuration > Policies > Windows Settings > Security Setting > Windows Defender Firewall with Advanced Security > Inbound Rules
 
+1. Create new custom rule
+2. Select All Programs (Defualt)
+3. Select Any Protocol (Default)
+4. Which Local IP does this rule apply to - ANY Which Remote IP Adresses does this apply to? - 10.90.0.0/16 - All subnets
+5. Select Allow the connection
+6. Rule applies to domain only - Untick Private and Public
+7. Name + apply to All Computers OU
+
 **Allow Internal ICMPv4 Request Echo - Ping**
 
 | Name                                         |Description                              |
