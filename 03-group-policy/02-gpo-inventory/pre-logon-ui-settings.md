@@ -60,7 +60,10 @@ By editing these two sections we can standardise the look and security of machin
 ### After applying GPO
 
 ![With GPO - Hero Image](../images/gpo-prelogon-ui-settings/after-hero-image.png)\
-*Here we can see the hero image has been replaced with a plain system colour and our pre-logon message and title*
+*Here we can see the hero image has been replaced with a plain system colour and our pre-logon message and title on Windows 10*
+
+![With GPO - Hero Image](../images/Win11_PreLogon.png)\
+*Here we can see the hero image has been replaced with a plain system colour and our pre-logon message and title on Windows 11*
 
 ![With GPO - Logon Screen](../images/gpo-prelogon-ui-settings/after-logon-screen.png)\
 *And here we can see the removal of last logged-in user and the ability to change network pre-logon*
